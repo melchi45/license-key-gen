@@ -23,10 +23,11 @@
     "mocha"
   ],
   "dependencies": {
+    "date-utils": "^1.2.21",
     "md5": "^2.2.1",
     "uid-safe": "^2.1.5"
   },
-  "repository": "github:arunahk/license-key-gen",
+  "repository": "github:melchi45/license-key-gen",
   "devDependencies": {
     "chai": "^4.2.0",
     "eslint": "^6.8.0",
